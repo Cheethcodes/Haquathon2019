@@ -8,8 +8,8 @@ A virtual reality game entry for Haquathon 2019 developed for educational purpos
 
 ## Contributors  
   * Ellouise Mendoza  
-  * Gabriel Hansley Suarez  
-  * James Karol Sanggalang
-  * Michael Barrozo  
-  * Xiorence Cai  
-  * Xyrel de Mesa
+  * Gabriel Hansley C. Suarez  
+  * James Karol B. Sanggalang  
+  * Joan Xyrel P. de Mesa
+  * Michael Ludwig E. Barrozo  
+  * Xiorence J. Cai  
